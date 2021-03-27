@@ -1,11 +1,11 @@
 ## Daniel Rares 🇧🇷
 
-Software Engineer @[everis](https://www.everis.com/brazil/pt-br/home-br)
+Software Engineer | [everis](https://www.everis.com/brazil/pt-br/home-br)
 
 I'm a Software Engineer, that has been working as a Development since 2018👨🏻‍💻
 
 - 📍 From SP 
-- 💻 Technology enthusiast
+- 💻 Technology Enthusiast
 
 Reach me out 👇🏼
 
