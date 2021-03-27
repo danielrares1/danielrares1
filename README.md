@@ -2,7 +2,7 @@
 
 Software Engineer | [everis](https://www.everis.com/brazil/pt-br/home-br)
 
-I'm a Software Engineer, that has been working as a development since 2018👨🏻‍💻
+I'm a Software Engineer, that has been working in development since 2018👨🏻‍💻
 
 - 📍 From SP 
 - 💻 Technology Enthusiast
