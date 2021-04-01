@@ -3,7 +3,7 @@
 I'm a Software Engineer, that has been working in development since 2018👨🏻‍💻
 
 - 📍 From SP 
-- 💻 I’m currently working @everis
+- ⌨️ I’m currently working @everis
 
 Reach me out 👇🏼
 
@@ -14,11 +14,8 @@ Reach me out 👇🏼
 
 <details>
   <summary>Say hello 🙋🏻‍♂️</summary>
-  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=github/danielrares1)](https://github.com/danielrares1">
-  
+    <img src="https://visitor-badge.glitch.me/badge?page_id=github/danielrares1)](https://github.com/danielrares1">
 </details>
-<br/>
 
 <!--
 **danielrares1/danielrares1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
