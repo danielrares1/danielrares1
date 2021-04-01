@@ -13,7 +13,7 @@ Reach me out 👇🏼
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielrares1/)](https://www.instagram.com/danielrares1/)
 
 <details>
-  <summary>Say hello 🙋🏻‍♂️</summary>
+  <summary>Say Hello 🙋🏻‍♂️</summary>
     </br>
    <center> <img style=margin-right:15% src="https://visitor-badge.glitch.me/badge?page_id=github/danielrares1)](https://github.com/danielrares1"> </center>
 </details>
