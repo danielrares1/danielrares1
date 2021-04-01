@@ -1,11 +1,9 @@
 ## Daniel Rares 🇧🇷
 
-Software Engineer | [everis](https://www.everis.com/brazil/pt-br/home-br)
-
 I'm a Software Engineer, that has been working in development since 2018👨🏻‍💻
 
 - 📍 From SP 
-- 💻 Technology Enthusiast
+- 💻 I’m currently working @everis
 
 Reach me out 👇🏼
 
@@ -13,6 +11,14 @@ Reach me out 👇🏼
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielrares1)](https://github.com/danielrares1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielrares/)](https://www.linkedin.com/in/danielrares/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielrares1/)](https://www.instagram.com/danielrares1/)
+
+<details>
+  <summary>Say hello 🙋🏻‍♂️</summary>
+  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=github/danielrares1)](https://github.com/danielrares1">
+  
+</details>
+<br/>
 
 <!--
 **danielrares1/danielrares1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
