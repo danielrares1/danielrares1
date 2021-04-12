@@ -10,7 +10,7 @@ Reach me out 👇🏼
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel@fatecpg.com.br)](mailto:daniel@fatecpg.com.br)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielrares1)](https://github.com/danielrares1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielrares/)](https://www.linkedin.com/in/danielrares/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielrares1/)](https://www.instagram.com/danielrares1/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielrares1/)](https://www.instagram.com/danielrares1/)
 
 <details>
   <summary>Say Hello 🙋🏻‍♂️</summary>
