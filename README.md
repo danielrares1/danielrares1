@@ -3,7 +3,7 @@
 I'm a Software Engineer, that has been working in development since 2018👨🏻‍💻
 
 - 📍 From SP 
-- ⌨️ I’m currently working on [@everis](https://www.everis.com/brazil)
+- ⌨️ I’m currently working on [@aubay](https://www.aubay.pt)
 
 Reach me out 👇🏼
 
