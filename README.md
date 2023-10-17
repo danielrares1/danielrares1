@@ -14,7 +14,7 @@ Reach me out 👇🏼
 <details>
   <summary>Say Hello 🙋🏻‍♂️</summary>
     </br>
-   <center> <img style=margin-right:15% src="https://visitor-badge.glitch.me/badge?page_id=github/danielrares1)](https://github.com/danielrares1"> </center>
+   <center> <img style=margin-right:15% src="https://visitor-badge.glitch.me?page_id=github/danielrares1)](https://github.com/danielrares1"> </center>
 </details>
 
 <!--
